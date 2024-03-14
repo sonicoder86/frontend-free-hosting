@@ -13,6 +13,11 @@ Showcasing free hosting for frontend applications (static hosting).
 - Install Github App, authorize
 - https://frontend-free-hosting.netlify.app/
 
+# Render
+
+- Install Githubb App, authorize
+- https://frontend-free-hosting.onrender.com/
+
 ## Content
 
 https://dev.to/vuelancer/free-deployment-providers-bk0
