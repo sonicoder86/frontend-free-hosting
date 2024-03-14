@@ -8,6 +8,10 @@ Showcasing free hosting for frontend applications (static hosting).
 - `npm i gh-pages -D`
 - https://sonicoder86.github.io/frontend-free-hosting/
 
+# Netlify
+
+- Install Github App, authorize
+- https://frontend-free-hosting.netlify.app/
 
 ## Content
 
