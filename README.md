@@ -44,6 +44,13 @@ https://surge.sh/
 - `surge dist`
 - https://frontend-free-hosting.surge.sh/
 
+# Fleek
+
+https://fleek.co/
+
+- Install Github App, authorize
+- https://frontend-free-hosting.on.fleek.co/
+
 ## Content
 
 https://dev.to/vuelancer/free-deployment-providers-bk0
