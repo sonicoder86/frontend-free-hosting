@@ -58,8 +58,3 @@ https://pages.cloudflare.com/
 - Workers & Pages > Create application > Pages > Connect to Git.
 - Install Github App, authorize
 - https://frontend-free-hosting.pages.dev/
-
-## Content
-
-https://dev.to/vuelancer/free-deployment-providers-bk0
-https://blog.bitsrc.io/15-free-hosting-for-front-end-developers-9224bc34e14a
